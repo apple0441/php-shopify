@@ -7,7 +7,7 @@ PHPShopify is a simple SDK implementation of Shopify API. It helps accessing the
 ## Installation
 Install with Composer
 ```shell
-composer require phpclassic/php-shopify
+composer require robertSawlton/php-shopify
 ```
 
 ### Requirements
@@ -547,79 +547,3 @@ $shopify = new PHPShopify\ShopifySDK($config);
 
 ## Reference
 - [Shopify API Reference](https://help.shopify.com/api/reference/)
-
-## Paid Support
-You can hire the author of this SDK for setting up your project with PHPShopify SDK. 
-
-[Hire at Upwork](https://www.upwork.com/fl/tareqmahmood?s=1110580755107926016)
-
-## Backers
-
-Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/phpshopify#backer)]
-
-<a href="https://opencollective.com/phpshopify/backer/0/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/1/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/2/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/3/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/4/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/5/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/6/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/7/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/8/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/9/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/10/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/11/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/11/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/12/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/12/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/13/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/13/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/14/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/14/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/15/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/15/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/16/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/16/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/17/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/17/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/18/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/18/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/19/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/19/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/20/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/20/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/21/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/21/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/22/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/22/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/23/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/23/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/24/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/24/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/25/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/25/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/26/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/26/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/27/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/27/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/28/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/28/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/backer/29/website" target="_blank"><img src="https://opencollective.com/phpshopify/backer/29/avatar.svg"></a>
-
-
-## Sponsors
-
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/phpshopify#sponsor)]
-
-<a href="https://opencollective.com/phpshopify/sponsor/0/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/1/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/2/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/3/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/4/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/5/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/6/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/7/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/8/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/9/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/10/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/10/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/11/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/11/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/12/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/12/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/13/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/13/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/14/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/14/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/15/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/15/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/16/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/16/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/17/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/17/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/18/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/18/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/19/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/19/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/20/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/20/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/21/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/21/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/22/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/22/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/23/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/23/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/24/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/24/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/25/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/25/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/26/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/26/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/27/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/27/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/28/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/phpshopify/sponsor/29/website" target="_blank"><img src="https://opencollective.com/phpshopify/sponsor/29/avatar.svg"></a>

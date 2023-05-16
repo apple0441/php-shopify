@@ -2,7 +2,7 @@
     "name": "phpclassic/php-shopify",
     "description": "PHP SDK for Shopify API",
     "keywords": ["PHP","Shopify","SDK"],
-    "homepage": "https://github.com/phpclassic/php-shopify",
+    "homepage": "https://github.com/robertSawlton/php-shopify",
     "type": "library",
     "require": {
         "php": ">=5.6",
