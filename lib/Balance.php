@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * @author Robert Jacobson <rjacobson@thexroadz.com>
+ * @author James Han <rjacobson@thexroadz.com>
  * @author Matthew Crigger <mcrigger@thexroadz.com>
  *
  * @see https://help.shopify.com/en/api/reference/shopify_payments/balance Shopify API Reference for Shopify Payment Balance
